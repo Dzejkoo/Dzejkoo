@@ -1,1 +1,3 @@
-#h1 Hi there, I'm Jakub 👋
+**Hi there, I'm Jakub 👋**
+
+*Begginer frontend developer based in Poznan*
